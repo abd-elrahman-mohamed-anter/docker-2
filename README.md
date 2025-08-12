@@ -31,5 +31,5 @@ the spring wit ignore on web
 
 size compare between with ignore and without ignore
 so without ignore the size is decreased 
-![9](size%20compare.png)
+![9](size.png)
 
