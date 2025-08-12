@@ -37,3 +37,16 @@ Accessed the Spring bit app with .dockerignore in the browser on port 5000
 Compared image sizes with and without .dockerignore and found the size was reduced when using with ignore
 
 ![9](size.png)
+
+I made a new flask with a more dockerfile layers it is name is flask1 and cat the dockerfile
+![10](1---1.png)
+
+The rest of cat and the build command 
+![11](1---2.png)
+
+The size compare and they are the same !
+![12](1---3.png)
+
+
+
+
