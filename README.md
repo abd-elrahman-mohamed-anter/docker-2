@@ -21,14 +21,15 @@ run the spring bet on port 5001
 ![5](g--3.png)
 
 
-Run springbet with ignore file on port 5000 
+Cat .dockerignore 
+
 ![6](g-3.png)
 
 Run  docker ps to see spring and springwith ignore and the ports
 
 ![7](g--2.png)
 
-Accessed the Spring bit app with .dockerignore in the browser
+Accessed the Spring bit app with .dockerignore in the browser on port 5000
 
 ![8](g--4.png)
 
