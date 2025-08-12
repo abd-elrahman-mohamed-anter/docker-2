@@ -16,7 +16,7 @@ The registration page appeared when accessing /register.
 Created a Dockerfile for the Spring  application and displayed its contents.
 
 ![4](g-2.png)
-run the spring with  .dockerignore on port 5000
+run the spring bet on port 5001
 
 ![5](g--3.png)
 
