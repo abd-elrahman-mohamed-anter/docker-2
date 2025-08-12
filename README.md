@@ -1,4 +1,4 @@
-First we add a cloned a flask app and made a docker file 
+First we add a cloned flask app and made a docker file 
 ![1](1-.png)
 
 
